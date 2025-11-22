@@ -1,2 +1,3 @@
-Algorithmic Complexity
-This repository introduces the basics of algorithmic complexity, focusing on how to measure and compare the efficiency of algorithms. It covers fundamental operations, time and space complexity, and the use of asymptotic notation (Big-O, Big-Ω, Big-Θ) to describe algorithm performance and scalability.
+Complejidad Algorítmica
+
+Este repositorio introduce los fundamentos de la complejidad algorítmica, centrándose en cómo medir y comparar la eficiencia de los algoritmos. Cubre operaciones fundamentales, complejidad temporal y espacial, y el uso de notación asintótica (Big-O, Big-Ω, Big-Θ) para describir el rendimiento y la escalabilidad de los algoritmos.
